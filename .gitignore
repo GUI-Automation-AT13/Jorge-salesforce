@@ -1,6 +1,14 @@
 .gradle
 /build/
-
+.idea/
+/target/
+target/
+.settings/
+config.properties
+Maven.iml
+salesforce-g3.iml
+.classpath
+.project
 # Ignore Gradle GUI config
 gradle-app.setting
 
